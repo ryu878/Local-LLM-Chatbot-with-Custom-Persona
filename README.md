@@ -15,7 +15,7 @@ Private, fast, and fully local chatbot powered by open-source LLMs like LLaMA 3,
 
 ```
 git clone https://github.com/ryu878/Local-LLM-Chatbot-with-Custom-Persona.git
-cd local-llm-chatbot
+cd Local-LLM-Chatbot-with-Custom-Persona
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ Open http://localhost:7860 in your browser.
 
 ### 📁 Project Structure
 ```
-📦 local-llm-chatbot/ 
+📦 Local-LLM-Chatbot-with-Custom-Persona/ 
 ├── app.py # Main Gradio app
 ├── llm_chat.py # LLM interaction logic
 ├── personas.py # Persona definitions
