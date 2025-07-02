@@ -64,3 +64,10 @@ MIT — open for commercial and personal use.
 - Add persona editor
 
 - Add Ollama model switcher in UI
+
+## Contacts
+To contact me please pm:
+
+Telegram: https://t.me/ryu8777
+
+Discord: https://discord.gg/zSw58e9Uvf
