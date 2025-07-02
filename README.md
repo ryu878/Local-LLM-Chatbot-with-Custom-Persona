@@ -33,7 +33,15 @@ python app.py
 Open http://localhost:7860 in your browser.
 
 ### 📁 Project Structure
-<pre lang="markdown"> ``` 📦 local-llm-chatbot/ ├── app.py # Main Gradio app ├── llm_chat.py # LLM interaction logic ├── personas.py # Persona definitions ├── requirements.txt # Dependencies └── README.md # This file ``` </pre>
+```
+📦 local-llm-chatbot/ 
+├── app.py # Main Gradio app
+├── llm_chat.py # LLM interaction logic
+├── personas.py # Persona definitions
+├── requirements.txt # Dependencies
+└── README.md # This file
+``` 
+
 
 ### 🧠 LLM Backend
 - Ollama (https://ollama.com) with any supported model (llama3, mistral, gemma, etc.)
