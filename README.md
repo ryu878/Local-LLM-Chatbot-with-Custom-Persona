@@ -68,7 +68,7 @@ MIT — open for commercial and personal use.
 
 - Add Ollama model switcher in UI
 
-
+***
 
 ## 📄 License
 MIT License - Feel free to modify and distribute.
