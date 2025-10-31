@@ -1,4 +1,4 @@
-# Local-LLM-Chatbot-with-Custom-Persona
+# Local LLM Chatbot with Custom Persona
 
 Private, fast, and fully local chatbot powered by open-source LLMs like LLaMA 3, with customizable characters and memory.
 
